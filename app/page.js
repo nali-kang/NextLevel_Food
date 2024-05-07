@@ -33,7 +33,6 @@ export default function Home() {
             with other food lovers.
           </p>
         </section>
-
         <section className={classes.section}>
           <h2>Why NextLevel Food?</h2>
           <p>
